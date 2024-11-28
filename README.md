@@ -18,4 +18,4 @@ Desenvolver um jogo digital ou protótipo funcional que aplique os conhecimentos
 
 ***
 ## Guia Wiki
-- <a href="https://github.com/GuilhermeM777/Lei-Do-Aco-e-Vapor-Mobile/wiki/Desenvolvimento-Projeto"> Desenvolvimento do Projeto📝
+- <a href="https://github.com/ErickFGalvez/TCC_LeiDoAco/wiki/Desenvolvimento-do-Projeto"> Desenvolvimento do Projeto📝
