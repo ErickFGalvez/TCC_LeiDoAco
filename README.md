@@ -5,6 +5,7 @@
 - Erick Felipe Mendes Galvez (Game Developer)
 - Guilherme Matos de Oliveira (Diretor Criativo)
 - Kauã de Castro Barbará Fernandes (Game Artist)
+- Kauan Jesus de Oliveira Santos (Desenvolvedor Web)
 - Lucas Noel Gomes Batista (Design de Interface)
 
 ***
